@@ -1,0 +1,20 @@
+select#filter_dropdown {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    padding: 6px 6px;
+    border: 1px solid #e5e5e5;
+    background: #fff;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.filter_response .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    float: left;
+    margin: 0 2.8% 2.992em 0;
+    padding: 0;
+    position: relative;
+    width: 22.05%;
+    margin-left: 0;
+}

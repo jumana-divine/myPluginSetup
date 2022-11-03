@@ -1,0 +1,14 @@
+.filter_admin_table{
+    padding: 5px;
+    width: 75%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.filter_admin_table td{
+    width: 50%;
+}
+.filter_admin_table td{
+    /* border: 1px solid black; */
+}
